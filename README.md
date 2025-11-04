@@ -72,3 +72,16 @@
 ##### 6. Setelah semua proses selesai, program akan menutup input menggunakan input.close();.
 ##### Berikut adalah lampiran hasil program Soal Sulit No 2 Uji Coba UKL
 ![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Program%20Soal%20Sulit%20No%202.png?raw=true=450x300)
+
+#### Screenshot Hasil Output Tugas Nomer 1
+<img width="430" height="286" alt="image" src="https://github.com/user-attachments/assets/ba9a1139-b5dc-40c1-97b5-0a01bd9a0d09" />
+#### Screenshot Hasil Output Tugas Nomer 2
+<img width="321" height="198" alt="image" src="https://github.com/user-attachments/assets/015f5b80-97ce-402a-bd51-fc01044eda4e" />
+#### Screenshot Hasil Output Tugas Nomer 3
+<img width="317" height="86" alt="image" src="https://github.com/user-attachments/assets/d4dab4b0-f140-49da-8436-00cffd54ac84" />
+#### Screenshot Hasil Output Tugas Nomer 4
+<img width="447" height="133" alt="image" src="https://github.com/user-attachments/assets/a2ab131c-6862-442a-8dba-305550703328" />
+#### Screenshot Hasil Output Tugas Nomer 5
+<img width="429" height="244" alt="image" src="https://github.com/user-attachments/assets/dc135398-c47b-4845-998d-6cb1092affd8" />
+#### Screenshot Hasil Output Tugas Nomer 6
+<img width="379" height="520" alt="image" src="https://github.com/user-attachments/assets/92ad5dbe-20cd-45bb-ae0e-cded1673aafd" />
