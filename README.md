@@ -11,8 +11,6 @@
 ##### 8. Jika volume lebih dari 100 cm3, maka fee akan bertambah Rp. 50000
 ##### 9. Selanjutnya, program menampilkan hasil dari program yakni "Total biaya pengiriman : Rp. hasil"
 ##### 
-##### Berikut adalah lampiran hasil program Soal Mudah No 1 Uji Coba UKL
-![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Program%20Soal%20Mudah%20No%201.png?raw=true=400x250)
 
 
 ### Soal Mudah No 2
@@ -23,8 +21,6 @@
 ##### maka sistem akan menampilkan Angka tersebut adalah Genap
 ##### 3. Sebaliknya, jika angka di modulus 2 mendapatkan sisa bukan 0, mkaa program akan menampilkan bahwa angka yang user masukkan adalah ganjil
 #####
-##### Berikut adalah lampiran hasil program Soal Mudah No 2 Uji Coba UKL
-![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Prorgram%20Soal%20Mudah%20No%202.png?raw=true=450x300)
 
 
 ### Soal Sedang No 1
@@ -36,8 +32,8 @@
 #####     Perulangan dilakukan dari i = 1 hingga i = n.
 ##### 4. Setelah proses perulangan selesai, program akan menampilkan hasil faktorial dari bilangan yang dimasukkan.
 ##### 5. Program kemudian menutup input menggunakan input.close(); untuk mengakhiri proses.
-##### Berikut adalah lampiran hasil program Soal Sedang No 1 Uji Coba UKL
-![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Program%20Soal%20Sedang%20No%201.png?raw=true=450x300)
+####
+
 
 ### Soal Sedang No 2
 ##### Alur kerja program :
@@ -45,8 +41,7 @@
 ##### 2. Lalu program akan langsung menghitung volume tabung dengan jari jari dan tinggi yang sudah pengguna inputkan
 ##### 3. Rumus yang saya gunakan yakni : 3,14159 x r x r x t
 ##### 4. Setelah itu, program akan menampilkan hasil dari perhitungan di atas
-##### Berikut adalah lampiran hasil program Soal Sedang No 2 Uji Coba UKL
-![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Program%20Soal%20Sedang%20No%202.png?raw=true=450x300)
+##### 
 
 ### Soal Sulit No 1
 ###### Alur kerja program :
@@ -58,8 +53,8 @@
     rataRata = totalNilai / jumlahSiswa;
 ###### 5. Program akan menampilkan hasil berupa total nilai dan rata-rata nilai ujian Produktif RPL ke layar.
 ###### 6. Program kemudian akan menutup input menggunakan input.close(); setelah semua proses selesai.
-###### Berikut adalah lampiran hasil program Soal Sulit No 1 Uji Coba UKL
-![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Program%20Soal%20Sulit%20No%201.png?raw=true=450x300)
+####
+
 
 ### Soal Sulit No 2
 ##### Alur kerja program :
@@ -70,8 +65,8 @@
     hasil[i][j] = matriksA[i][j] + matriksB[i][j];
 ##### 5. Program akan menampilkan hasil akhir berupa Matriks Hasil (A + B) dalam bentuk tabel baris dan kolom.
 ##### 6. Setelah semua proses selesai, program akan menutup input menggunakan input.close();.
-##### Berikut adalah lampiran hasil program Soal Sulit No 2 Uji Coba UKL
-![name](https://github.com/daus-aglar34/contoh-ukl-rpl/blob/main/Hasil%20Program%20Soal%20Sulit%20No%202.png?raw=true=450x300)
+####
+
 
 #### Screenshot Hasil Output Tugas Nomer 1
 <img width="430" height="286" alt="image" src="https://github.com/user-attachments/assets/ba9a1139-b5dc-40c1-97b5-0a01bd9a0d09" />
